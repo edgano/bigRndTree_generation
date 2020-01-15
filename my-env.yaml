@@ -1,0 +1,10 @@
+name: my-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - r-seqinr
+  - r-ape
+  - r-base
